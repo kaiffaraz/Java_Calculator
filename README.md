@@ -13,3 +13,5 @@ Features
 - Runs in a loop until you select **Exit**
 - Easy to run in any IDE or terminal
 
+![Calculator Screenshot](https://github.com/your-username/java-calculator/blob/main/screenshot.png?raw=true)
+
